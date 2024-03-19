@@ -21,7 +21,7 @@ const Footer = () => {
         />
       </span>
       <div>
-      <a class="twitter-timeline" data-height="200" data-theme="dark" href="https://twitter.com/TempleUniv?ref_src=twsrc%5Etfw">Tweets by TempleUniv</a> 
+      <a class="twitter-timeline" data-height="200" data-theme="dark" href="https://twitter.com/TempleAlert?ref_src=twsrc%5Etfw">Tweets by TempleAlert</a>
       </div>
 
       <div class = 'youtube-video-container'>
