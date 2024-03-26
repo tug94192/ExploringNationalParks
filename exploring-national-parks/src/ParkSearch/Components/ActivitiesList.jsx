@@ -115,7 +115,7 @@ function ActivitiesList() {
                 </div>
                 <div className="parks">
                     {parksFiltered?.map((park) => (
-                        <div key={park.id} className="post-card">
+                        <div key={park.id} className="post-card col-lg-4 col-sm-12">
                             <div>
                                 <div className="learn-more-dropdown">
                                     <div>

@@ -61,7 +61,7 @@ function ParkInfoComponent() {
                     <div className="parks">
 
                         {parkJSON?.map((park) => (
-                            <div key={park.id} className="post-card">
+                            <div key={park.id} className="post-card col-sm-12 col-lg-4">
                             <a className='park-info-link' href={'ParkInfo?parkCode='+park.parkCode}>
                             <div>
                                 <div className="learn-more-dropdown">
