@@ -24,9 +24,7 @@ const Footer = () => {
       <a class="twitter-timeline" data-height="200" data-theme="dark" href="https://twitter.com/TempleAlert?ref_src=twsrc%5Etfw">Tweets by TempleAlert</a>
       </div>
 
-      <div class = 'youtube-video-container'>
-        <iframe class='youtube-video' width="100%" height="100%" src="https://www.youtube.com/embed/diy_b2eoDN8?autoplay=1&loop=1&mute=1&playlist=diy_b2eoDN8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"><small>Powered by <a href="https://embed.tube/embed-code-generator/youtube/">youtube embed video</a> generator</small></iframe>
-      </div>
+      
     </div>
     
   );

@@ -1,5 +1,5 @@
 .home-page{
-    background-image : url("../HomePage/Assets/yosemite.jpg");
+    /*background-image : url("../HomePage/Assets/yosemite.jpg");*/
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -10,6 +10,7 @@
 .home-page .welcome-title{
     margin: 0;
     font-size: 10rem;
+    color:white;
 }
 .home-page .welcome-text{
     font-size: 1.5rem;
